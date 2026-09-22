@@ -101,7 +101,6 @@ A university Android application developed using **Java and XML**, combining res
 
 `Java` `Android` `XML` `Gradle`
 
-[View Project →](YOUR_REPOSITORY_LINK)
 
 ---
 
@@ -113,8 +112,6 @@ Academic compiler-design work focused on **recursive-descent parsing** and funda
 
 `Parsing` `Grammars` `Recursive Algorithms` `Compiler Design`
 
-[View Project →](YOUR_REPOSITORY_LINK)
-
 ---
 
 ### 🎨 Computer Graphics Algorithms
@@ -125,8 +122,6 @@ Academic work exploring fundamental **computer graphics and line-drawing algorit
 
 `Computer Graphics` `Algorithms` `Coordinate Systems` `Problem Solving`
 
-[View Project →](YOUR_REPOSITORY_LINK)
-
 ---
 
 ### 🗄️ C# & ADO.NET Academic Work
@@ -136,8 +131,6 @@ University programming and database work involving **C#, Object-Oriented Program
 **Technologies:**
 
 `C#` `ADO.NET` `OOP` `Databases`
-
-[View Project →](YOUR_REPOSITORY_LINK)
 
 ---
 
@@ -182,14 +175,6 @@ Relevant areas of study:
 * Develop stronger software engineering practices
 * Build a professional and well-documented GitHub portfolio
 * Continue learning through real-world projects
-
----
-
-## 📊 GitHub Stats
-
-![Surafel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surafelng\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surafelng\&layout=compact\&hide_border=true)
 
 ---
 
