@@ -181,7 +181,7 @@ Relevant areas of study:
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-* 📧 Email: [Your Email](surafelnigussu6@gmail.com)
+* 📧 Email: [Your Email](mailto:surafelnigussu6@gmail.com)
 * 🌐 Portfolio: [Your Portfolio](YOUR_PORTFOLIO_URL)
 
 ---
