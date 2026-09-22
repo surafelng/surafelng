@@ -7,6 +7,14 @@ I'm a Computer Science graduate from **St. Mary's University** with hands-on exp
 I enjoy turning Computer Science concepts into practical applications and continuously improving my technical skills through projects and problem-solving.
 
 ---
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="mailto:surafelnigussu6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+---
 
 ## 👨‍💻 About Me
 
@@ -177,15 +185,6 @@ Relevant areas of study:
 * Continue learning through real-world projects
 
 ---
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-* 📧 Email: [Your Email](mailto:surafelnigussu6@gmail.com)
-* 🌐 Portfolio: [Your Portfolio](YOUR_PORTFOLIO_URL)
-
----
-
 ### ⭐ Thanks for visiting my profile!
 
 I'm always learning, building, and improving through practical Computer Science projects.
