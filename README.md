@@ -171,17 +171,6 @@ Relevant areas of study:
 
 ---
 
-## 🌱 Currently Learning
-
-I'm continuing to strengthen my software development foundation through:
-
-* 🔧 Git & GitHub
-* ☕ Advanced Java
-* 📱 Modern Android Development
-* 🗄️ Database Development
-* 🌐 Backend & API Development
-* 🧪 Software Testing
-* 🏗️ Software Engineering Practices
 
 ---
 
@@ -207,7 +196,7 @@ I'm continuing to strengthen my software development foundation through:
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-* 📧 Email: [Your Email](YOUR_EMAIL)
+* 📧 Email: [Your Email](surafelnigussu6@gmail.com)
 * 🌐 Portfolio: [Your Portfolio](YOUR_PORTFOLIO_URL)
 
 ---
